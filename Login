@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Shape Up!</title>
+        <link rel="shortcut icon" href="favicon.ico">
+        <link rel="stylesheet" href="CSS.css">
+
+    </head>
+
+   <body>
+       <header>
+       <img id="img" src="shape_up_logo.png" alt="logo">
+       <a href="main.html" id="change" target="_blank"><h2 id="shape">Shape Up!</h2></a>
+        <h3 id="Find">Find the best fit for you</h3>
+      <br>
+
+
+       </header>
+
+       <aside id="menu">
+
+        <ul id="menulinks">
+
+            <li class="tierone" id="one"><a class="tierlinks" id="black" href="Main.html" target="_blank">Home</a></li>
+            <li class="tierone" id="two"><a class="tierlinks"  href="UnderConstruction.html">Strength Training</a></li>
+            <li class="tierone" id="three"><a class="tierlinks"  href="UnderConstruction.html">Cardio Exercises</a></li>
+            <li class="tierone"><a class="tierlinks"  href="UnderConstruction.html">Stress Relief</a>
+            
+                <ul id="stresslinks">
+                    <li a class="stressone"><a a class="stressfont" href="UnderConstruction.html">What is Stress?</a></li>
+                    <li a class="stressone"><a a class="stressfont" href="UnderConstruction.html">5 Helpful Tips</a></li>
+                    <li a class="stressone"><a a class="stressfont" href="UnderConstruction.html">Meditation</a></li>
+                    <li a class="stressone"><a a class="stressfont" href="UnderConstruction.html">Vipassana</a></li>
+                </ul>
+            </li>
+            <li class="tierone"><a class="tierlinks" href="UnderConstruction.html">Healthy Diets</a>
+            
+                <ul id="healthlinks">
+                    <li a class="stressone"><a a class="stressfont" href="UnderConstruction.html">Why a Healthy Diet?</a></li>
+                    <li a class="stressone"><a a class="stressfont" href="UnderConstruction.html">Plan Your Meals</a></li>
+                    <li a class="stressone"><a a class="stressfont" href="UnderConstruction.html">Count Your Calories</a></li>
+                    <li a class="stressone"><a a class="stressfont" href="UnderConstruction.html">Calculate Your BMI</a></li>
+                </ul>
+            
+            
+            </li>
+
+        </ul>
+
+       </aside>
+
+
+       
+
+
+
+       <aside id="leftside"> 
+        <h3 class="additional">Additional resources</h2>
+            <ul id="list">
+                <li class="shift"><a class="ad"  href="https://www.heart.org/en/health-topics/cardiac-rehab/getting-physically-active/whats-the-link-between-physical-activity-and-health">Physical activity and health</a></li>
+                <li class="shift"><a class="ad"  href="https://www.realsimple.com/health/fitness-exercise/stretching-yoga/stretching-exercises">Stretching exercises</a></li>
+                <li class="shift"><a class="ad"  href="https://www.nytimes.com/guides/well/strength-training-plyometrics">Strength training</a></li>
+                <li class="shift"><a class="ad"  href="https://www.womenshealthmag.com/fitness/a22995307/cardio-exercises/">Cardiovascular training</a></li>
+                <li class="shift"><a class="ad"  href="https://www.self.com/gallery/power-yoga-workout">Yoga workout</a></li>
+            </ul>
+
+       </aside>
+
+       <main>
+
+        
+        <h2 class="left">Get ready to Shape Up!</h2>
+ 
+        <p class="shift" id="how">How many times have you started a new workout routine or diet? And how many times
+            has it failed to give you the results you want? Now, with the help of this site, you can
+            learn about the exercises and diet that work best for you. We offer personalized
+            programs as well as access to several health and dieting tools. So don't wait! Get
+            started looking and feeling better today.
+            </p>
+        <p class="shift as"> As fitness expert Amanda Russell said:</p>
+        <blockquote>Fitness is about so much more than exercise. It’s a catalyst for positive change, and
+            it affects every aspect of your life</blockquote>
+
+            <h3 class="smaller">What we offer</h2>
+
+            <p class="links">Build strong muscles</p>
+            <p class="shiftquestion">Tired of being tired? Strength training can help you manage or lose weight and increase
+                your metabolism to help you burn more calories. It can also increase bone density and
+                reduce the risk of osteoporosis.
+                </p>
+            <p class="links" class="shift" > Get your heart rate up</p>
+
+            <p class="shiftquestion">Want to lose weight? Cardiovascular exercise burns calories and improves overall
+                health. It can reduce belly fat, promote brain growth, prevent stress, and help you focus.
+                </p>
+            <p class="links" class="shift" >Relax</p>
+            <p class="shiftquestion">Stressed out? Stress can weaken the immune system and cause high blood pressure,
+                fatigue, depression, anxiety, and even heart disease. Learn ways to manage and
+                reduce stress.
+                </p>
+            <p class="links" class="shift" >Eat what's right for you</p>
+            <p class="shiftquestion">Are you really what you eat? Lose weight, gain weight, or just feel great! Maintaining a
+                healthy diet is probably the most important thing you can do to promote overall health.
+                </p>
+       </main>
+      
+       <footer>
+
+        <p id="bottom"> &copy; 2019 Shape Up!</p>
+       </footer>
+
+   </body>
+   
+    
+
+
+
+
+
+
+
+</html>
